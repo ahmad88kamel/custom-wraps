@@ -57,6 +57,20 @@ Choose your vehicle to download the template and view example wraps:
 <a href="modely-l/"><b>Model Y L</b><br/></a>
 </td>
 </tr>
+<tr>
+<td align="center" valign="top">
+<a href="models-2021/"><img src="models-2021/vehicle_image.png" width="200"/></a><br/>
+<a href="models-2021/"><b>Model S (2021+)</b><br/></a>
+</td>
+<td align="center" valign="top">
+<a href="models-2025-plaid/"><img src="models-2025-plaid/vehicle_image.png" width="200"/></a><br/>
+<a href="models-2025-plaid/"><b>Model S (2025+)</b><br/>Plaid</a>
+</td>
+<td align="center" valign="top">
+<a href="modelx-2021/"><img src="modelx-2021/vehicle_image.png" width="200"/></a><br/>
+<a href="modelx-2021/"><b>Model X (2021+)</b><br/></a>
+</td>
+</tr>
 </table>
 
 ## Requirements & Setup
