@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="Barcelona_flag png" src="https://github.com/user-attachments/assets/d75479d5-0e27-403f-ace6-4cc1d1bf1fd1" />
 # Model Y Custom Wraps
 
 Download the template below and customize it with your own design. For complete setup instructions and requirements, see the [main page](../).
